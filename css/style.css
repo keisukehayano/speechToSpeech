@@ -1,0 +1,5 @@
+ * { margin: 0; padding: 0; box-sizing: border-box; }
+  html {font-family: sans-serif; }
+  article{margin: 10px;}
+  #recording { background-color: #fff; padding: 10px 0; position: fixed; bottom: 0; width: 100%; }
+  #messages { list-style-type: none; margin: 0; padding: 0; }
